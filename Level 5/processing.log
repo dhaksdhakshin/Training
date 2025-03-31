@@ -1,0 +1,32 @@
+2025-03-29 09:11:28,356 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic.csv
+2025-03-29 09:11:28,357 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic1.csv
+2025-03-29 09:11:28,375 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic.csv'
+2025-03-29 09:11:28,375 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic1.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic1.csv'
+2025-03-29 09:11:42,649 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic.csv
+2025-03-29 09:11:42,649 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic1.csv
+2025-03-29 09:11:42,651 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic.csv'
+2025-03-29 09:11:42,651 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic1.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic1.csv'
+2025-03-29 09:11:45,010 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic.csv
+2025-03-29 09:11:45,011 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic1.csv
+2025-03-29 09:11:45,011 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic.csv'
+2025-03-29 09:11:45,011 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic1.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic1.csv'
+2025-03-29 09:11:45,230 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic.csv
+2025-03-29 09:11:45,231 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic1.csv
+2025-03-29 09:11:45,231 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic.csv'
+2025-03-29 09:11:45,232 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic1.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic1.csv'
+2025-03-29 09:12:15,648 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic.csv
+2025-03-29 09:12:15,648 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic1.csv
+2025-03-29 09:12:15,657 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic.csv'
+2025-03-29 09:12:15,657 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic1.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic1.csv'
+2025-03-29 09:18:18,301 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic.csv
+2025-03-29 09:18:18,302 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic1.csv
+2025-03-29 09:18:18,302 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic.csv'
+2025-03-29 09:18:18,303 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic1.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic1.csv'
+2025-03-29 09:18:25,157 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic.csv
+2025-03-29 09:18:25,157 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic1.csv
+2025-03-29 09:18:25,159 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic.csv'
+2025-03-29 09:18:25,159 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic1.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic1.csv'
+2025-03-29 09:18:25,381 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic.csv
+2025-03-29 09:18:25,382 - INFO - Started processing C:/Users/madhu/OneDrive/Documents/titanic1.csv
+2025-03-29 09:18:25,382 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic.csv'
+2025-03-29 09:18:25,383 - ERROR - Error processing C:/Users/madhu/OneDrive/Documents/titanic1.csv: [Errno 2] No such file or directory: 'C:/Users/madhu/OneDrive/Documents/titanic1.csv'
